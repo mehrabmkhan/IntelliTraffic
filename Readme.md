@@ -23,9 +23,4 @@ IntelliTraffic leverages IoT and sensor technology to create an adaptive traffic
 
 
 
-## Installation
 
-1. **Clone the repository:**
-   ```sh
-   git clone https://github.com/yourusername/intellitraffic.git
-   cd intellitraffic
